@@ -97,6 +97,7 @@ except for the slightly different confidence scores due to the random nature.
 > ClassifyJoinedRead.pl -out refio_testio.rdp refio test.io.fq
 
 
+
 4. Input and output
 -----------------------------------------------------------------------------------------------------
 To run JTax successfully, the input data should be in a specific format as described below. 
