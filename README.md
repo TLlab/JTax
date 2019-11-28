@@ -4,7 +4,7 @@ Tsunglin Liu*, Cheng-Yu Chen, An Chen-Deng, Yi-Lin Chen, Jiu-Yao Wang, Yung-I Ho
 
 
 1. Introduction
-
+-----------------------------------------------------------------------------------------------------
 JTax is a tool designed to facilitate taxonomy classification for Illumina paired-end (PE) reads
 of amplified marker genes (e.g., 16S rRNA) that cannot be merged into single reads either because
 the high sequencing error rate at read ends prevents the merge or the paired reads are not long
@@ -23,7 +23,7 @@ taxonomy classifiers. JTax has been tested on Linux and with USEARCH (v11), RDP 
 and BLAST (v2.2.31+). Please see below for details of installation.
 ----------------------------------------------------------------------------------------------------
 
-# JTax installation:
+#JTax installation:
 > wget https://github.com/TLlab/taxio/raw/master/jtax-0.1.tar.gz
 > tar zxvf jtax-0.1.tar.gz
 # add the folder jtax-0.1/bin to $PATH
