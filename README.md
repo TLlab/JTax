@@ -23,7 +23,7 @@ taxonomy classifiers. JTax has been tested on Linux and with USEARCH (v11), RDP 
 and BLAST (v2.2.31+). Please see below for details of installation.
 ----------------------------------------------------------------------------------------------------
 
-#JTax installation:
+# JTax installation:
 > wget https://github.com/TLlab/taxio/raw/master/jtax-0.1.tar.gz
 > tar zxvf jtax-0.1.tar.gz
 # add the folder jtax-0.1/bin to $PATH
