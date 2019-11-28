@@ -125,3 +125,4 @@ rearranged reference: refio.fa or refdj.fa
 joined reads: test.io.fq or test.dj.fq
 
 classification results: refio_test.rdp or refdj_test.sintax
+
