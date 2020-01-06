@@ -24,8 +24,7 @@ and BLAST (v2.2.31+). Please see below for details of installation.
 ----------------------------------------------------------------------------------------------------
 
 # JTax installation:
-> wget https://github.com/TLlab/taxio/raw/master/jtax-0.1.tar.gz
-> tar zxvf jtax-0.1.tar.gz
+> git clone https://github.com/TLlab/JTax.git
 # add the folder jtax-0.1/bin to $PATH
 
 # USEARCH installation:
